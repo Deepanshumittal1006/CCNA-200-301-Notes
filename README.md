@@ -1,15 +1,36 @@
-# CCNA 200-301 Notes
+## Study Progress
 
-My journey of preparing for the Cisco CCNA 200-301 certification.
+| Topic | Status |
+|---------|---------|
+| Network Devices & Network Fundamentals | ✅ |
+| Interfaces, Ethernet & Network Cables | ✅ |
+| OSI Model | ⏳ |
+| TCP/IP Model | ⏳ |
+| Ethernet LAN Switching | ⏳ |
+| IPv4 Addressing | ⏳ |
+| Subnetting | ⏳ |
+| VLANs | ⏳ |
+| Routing Fundamentals | ⏳ |
+| ACLs | ⏳ |
+| NAT | ⏳ |
+| Network Security | ⏳ |
 
-## Contents
+## Goal
 
-### Day 01 - Network Fundamentals
-- Notes
-- Anki Flashcards
+This repository documents my CCNA 200-301 learning journey through:
+
+- Detailed study notes
+- Packet Tracer labs
+- Anki flashcards
+- Network diagrams
+- Hands-on practice
+
+The objective is to build a strong networking foundation for cybersecurity and network engineering roles.
 
 ## Resources Used
+
 - Jeremy's IT Lab
 - Cisco Documentation
-- Packet Tracer
-- Anki
+- Cisco Packet Tracer
+- Anki Flashcards
+- Wireshark
