@@ -1,9 +1,17 @@
 # Day 1 - Network Devices & Network Fundamentals
 
-**Course:** CCNA 200-301  
-**Status:** Completed ✅
+## Topics Covered
 
----
+- What is a Network
+- Nodes
+- Clients and Servers
+- Switches
+- Routers
+- Firewalls
+- LAN Concepts
+
+## Notes
+
 # CCNA 200-301 Notes - Day 1
 
 # Network Devices & Network Fundamentals
