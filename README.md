@@ -1,37 +1,15 @@
 # CCNA 200-301 Notes
 
-This repository contains my personal study notes, labs, and learning progress while preparing for the Cisco CCNA 200-301 certification.
+My journey of preparing for the Cisco CCNA 200-301 certification.
 
-## Topics
+## Contents
 
-- Network Fundamentals
-- Ethernet
-- IPv4 Addressing
-- IPv6 Addressing
-- Switching
-- VLANs
-- Routing
-- Network Services
-- Security Fundamentals
-- Automation and Programmability
+### Day 01 - Network Fundamentals
+- Notes
+- Anki Flashcards
 
-## Lab Environment
-
-- Cisco Packet Tracer
-- Wireshark
-- Windows 11
-
-## Progress
-
-- [x] Repository Created
-- [ ] Network Fundamentals
-- [ ] Ethernet
-- [ ] IP Addressing
-- [ ] Switching
-- [ ] Routing
-- [ ] Security
-- [ ] Automation
-
-## Goal
-
-Build a strong networking foundation for CCNA certification and cybersecurity roles.
+## Resources Used
+- Jeremy's IT Lab
+- Cisco Documentation
+- Packet Tracer
+- Anki
